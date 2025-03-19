@@ -43,3 +43,10 @@ for(i=1;i<=5;i ++){
   }
   console.log(total)
 
+//Diego Aryel
+let total = 1
+for(i=1;i<=30;i ++){
+  if(i%3==0){
+  console.log(i)
+  }
+}
