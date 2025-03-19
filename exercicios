@@ -11,7 +11,6 @@ for(i=10;i>=1;i--){
 //gustavo
 for(i=1;i<20;i ++){
   if(i%2==0){
-  
   console.log(i)
   }
 }
@@ -19,8 +18,13 @@ for(i=1;i<20;i ++){
 //Nicolas
 for(i=1;i<20;i ++){
   if(i%2==1){
-  
   console.log(i)
   }
 }
 
+//Jordan Franck
+for(i=1;i<=50;i ++){
+  if(i%5==0){
+  console.log(i)
+  }
+}
