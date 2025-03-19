@@ -74,3 +74,11 @@ for(i=1;i<=50;i++){
   }
 }
 console.log(total)
+
+//Diego Aryel
+for(i=1;i<=100;i++){
+  if(i%4==0){
+    console.log(i)
+  }
+}
+
